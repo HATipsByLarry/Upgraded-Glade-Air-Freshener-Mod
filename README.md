@@ -16,3 +16,5 @@ Here is the link for the Wiring Diagram: https://github.com/HATipsByLarry/Upgrad
 Here is the link for the project code: https://github.com/HATipsByLarry/Upgraded-Glade-Air-Freshener-Mod/blob/main/Project%20Code
 
 Here is the link to my github page that shows how to set up the zones for the mmWave sensor: https://github.com/HATipsByLarry/LD2410-Zones
+
+Found This Useful and want to say thanks ___ ☕ Buy Me A Coffee! ☕ __ https://www.buymeacoffee.com/hatipsbylarry
