@@ -1,7 +1,7 @@
 # Upgraded-Glade-Air-Freshener-Mod
 Upgraded Glade Air Freshener Mod
 
-I have added a wwWave Sensor to the Glade Air Freshener Mode i created here: https://github.com/HATipsByLarry/Glade-Air-Freshener-Mod
+I have added a wwWave Sensor to the Glade Air Freshener Mod i created here: https://github.com/HATipsByLarry/Glade-Air-Freshener-Mod
 Also Added a reed switch and a Touch sensor to give the air freshener more capabilities in Home Assistant
 
 Below is a wiring diagram
