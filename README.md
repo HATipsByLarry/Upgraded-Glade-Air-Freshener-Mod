@@ -11,4 +11,4 @@ Parts List: https://www.canva.com/design/DAGMiY4jpTk/wpudwSv2Z-PqcATQ79RvbQ/view
 
 Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but as an affiliate this channel may earn a small commission if you make a purchase.💖
 
-Wiring Diagram: https://github.com/HATipsByLarry/Upgraded-Glade-Air-Freshener-Mod/blob/main/Glade%20Air%20Freshener%20Advanced%20Wiring%20Diagram.jpg
+Here is the link for the Wiring Diagram: https://github.com/HATipsByLarry/Upgraded-Glade-Air-Freshener-Mod/blob/main/Glade%20Air%20Freshener%20Advanced%20Wiring%20Diagram.jpg
