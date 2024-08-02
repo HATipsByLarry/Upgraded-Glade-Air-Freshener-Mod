@@ -17,4 +17,6 @@ Here is the link for the ESPHome code: https://github.com/HATipsByLarry/Upgraded
 
 Here is the link to my github page that shows how to set up the zones for the mmWave sensor: https://github.com/HATipsByLarry/LD2410-Zones
 
+Here is the link for the YouTube video https://www.youtube.com/watch?v=nB-NdAWhfeY
+
 Found This Useful and want to say thanks ___ ☕ Buy Me A Coffee! ☕ __ https://www.buymeacoffee.com/hatipsbylarry
